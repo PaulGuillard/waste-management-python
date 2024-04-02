@@ -1,0 +1,161 @@
+[
+    {
+        "name_disp": "Paper/Cardboard",
+        "name": "paper",
+        "accepted": [
+            "newspaper",
+            "magazine",
+            "catalogue",
+            "book",
+            "notebook",
+            "pieces of cardboard",
+            "prospectuse",
+            "calendar"
+        ],
+        "not_accepted": [
+            "wallpaper",
+            "milk carton",
+            "fruit juice carton",
+            "soiled paper",
+            "waxed paper",
+            "laminated paper",
+            "carbon paper",
+            "document files",
+            "paper plate",
+            "diaper",
+            "toilet paper",
+            "parchment",
+            "tracing paper"
+        ]
+    },
+    {
+        "name_disp": "Glass",
+        "name": "glass",
+        "accepted": [
+            "bottle",
+            "glass",
+            "jar"
+        ],
+        "not_accepted": [
+            "window pane",
+            "glass tile",
+            "windscreen",
+            "wire glass",
+            "tempered glass",
+            "mirror",
+            "ceramic",
+            "earthenware",
+            "porcelain",
+            "plastic",
+            "fluorescent tube",
+            "electric light bulb",
+            "screen",
+            "metals",
+            "full bottle",
+            "full container"
+        ]
+    },
+    {
+        "name_disp": "Valorlux (blue bag)",
+        "name": "valorlux",
+        "accepted": [
+            "plastic pot",
+            "plastic punnet",
+            "plastic tray",
+            "plastic cup",
+            "plastic bag",
+            "plastic wrap",
+            "transparent PET bottle",
+            "light blue PET bottle",
+            "green PET bottle",
+            "dark blue PET bottle",
+            "other color PET bottle",
+            "HDPE bottle",
+            "HDPE flask",
+            "PE film",
+            "PP film",
+            "PP cup",
+            "PP pot",
+            "PP tray",
+            "PS cup",
+            "PS pot",
+            "PS tray",
+            "steel",
+            "aluminium",
+            "beverage carton",
+            "PET mix tray",
+            "PET mix bottle",
+            "PET mix cup"
+        ],
+        "not_accepted": [
+            "polystyrene",
+            "paper",
+            "cardboard",
+            "glass",
+            "plastic toys",
+            "black plastic",
+            "bottles of toxic waste",
+            "containers of toxic waste"
+        ]
+    },
+    {
+        "name_disp": "Mixed residual waste",
+        "name": "mixed",
+        "accepted": [
+            "all types of incinerable and non-recyclable waste",
+            "used plastic plates",
+            "soiled trays (aluminium and polystyrene)",
+            " refill vessel (soap, bleach)",
+            "camembert box",
+            "baby diaper",
+            "plastic cup",
+            "cigarettes handkerchief",
+            "q-tips",
+            "dirty plastic",
+            "cat litter",
+            "cold ash",
+            "sweepings",
+            "vacuum cleaner bag",
+            "tapestry"],
+        "not_accepted": [
+            "recyclable waste",
+            "toxic waste"
+        ]
+    },
+    {
+        "name_disp": "Recycling center",
+        "name": "recycling center",
+        "accepted": [
+            "ceramics",
+            "plastic film",
+            "plastic sachet",
+            "hard plastic",
+            "yogurt jar",
+            "plastic plate",
+            "plant pot",
+            "shoes",
+            "clothing",
+            "aluminium foil",
+            "window glass(with and without frame)",
+            "electric toys",
+            "electrical tools aerated concrete",
+            "cork",
+            "mirrors",
+            "wood",
+            "scrap",
+            "gardening wastes",
+            "grass",
+            "paper",
+            "cardboard",
+            "audio-visual apparatuses",
+            "household appliances",
+            "plaster",
+            "asbestos",
+            "hollow glass",
+            "flat glass"
+        ],    
+        "not_accepted": [
+            "mixed non-recyclable waste"
+        ]
+    }
+]

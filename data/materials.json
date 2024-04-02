@@ -1,0 +1,176 @@
+[
+    {
+        "container_name": "glass",
+        "name": "glass",
+        "eng_name": "Glass",
+        "instructions": "Please make sure it is empty of foodstuffs and clean of any residue."
+    },
+    {
+        "container_name": "glass",
+        "name": "verre",
+        "eng_name": "Glass",
+        "instructions": "Please make sure it is empty of foodstuffs and clean of any residue."
+    },
+    {
+        "container_name": "glass",
+        "name": "glas",
+        "eng_name": "Glass",
+        "instructions": "Please make sure it is empty of foodstuffs and clean of any residue."
+    },
+    {
+        "container_name": "paper",
+        "name": "papier",
+        "eng_name": "Paper",
+        "instructions": "Please flatten all boxes, and if possible, remove staples from paper."
+    },
+    {
+        "container_name": "paper",
+        "name": "paper",
+        "eng_name": "Paper",
+        "instructions": "Please flatten all boxes, and if possible, remove staples from paper."
+    },
+    {
+        "container_name": "paper",
+        "name": "carton",
+        "eng_name": "Paper",
+        "instructions": "Please flatten all boxes, and if possible, remove staples from paper."
+    },
+    {
+        "container_name": "paper",
+        "name": "karton",
+        "eng_name": "Paper",
+        "instructions": "Please flatten all boxes, and if possible, remove staples from paper."
+    },
+    {
+        "container_name": "paper",
+        "name": "pappe",
+        "eng_name": "Paper",
+        "instructions": "Please flatten all boxes, and if possible, remove staples from paper."
+    },
+    {
+        "container_name": "paper",
+        "name": "feuille",
+        "eng_name": "Paper",
+        "instructions": "Please flatten all boxes, and if possible, remove staples from paper."
+    },
+    {
+        "container_name": "recycling center",
+        "name": "porcelaine",
+        "eng_name": "Porcelain",
+        "instructions": "Please bring it clean and free of foodstuffs to the nearest recycling centre."
+    },
+    {
+        "container_name": "recycling center",
+        "name": "ceramic",
+        "eng_name": "Porcelain",
+        "instructions": "Please bring it clean and free of foodstuffs to the nearest recycling centre."
+    },
+    {
+        "container_name": "recycling center",
+        "name": "pottery",
+        "eng_name": "Porcelain",
+        "instructions": "Please bring it clean and free of foodstuffs to the nearest recycling centre."
+    },
+    {
+        "container_name": "recycling center",
+        "name": "china",
+        "eng_name": "Porcelain",
+        "instructions": "Please bring it clean and free of foodstuffs to the nearest recycling centre."
+    },
+    {
+        "container_name": "recycling center",
+        "name": "céramique",
+        "eng_name": "Porcelain",
+        "instructions": "Please bring it clean and free of foodstuffs to the nearest recycling centre."
+    },
+    {
+        "container_name": "recycling center",
+        "name": "keramik",
+        "eng_name": "Porcelain",
+        "instructions": "Please bring it clean and free of foodstuffs to the nearest recycling centre."
+    },
+    {
+        "container_name": "recycling center",
+        "name": "porzellan",
+        "eng_name": "Porcelain",
+        "instructions": "Please bring it clean and free of foodstuffs to the nearest recycling centre."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "stahl",
+        "eng_name": "Steel",
+        "instructions": "Please flatten containers to reduce their volume if needed."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "acier",
+        "eng_name": "Steel",
+        "instructions": "Please flatten containers to reduce their volume if needed."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "aluminium",
+        "eng_name": "Aluminium",
+        "instructions": "Please flatten containers to reduce their volume if needed."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "métal",
+        "eng_name": "Metal",
+        "instructions": "Please flatten containers to reduce their volume if needed."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "metal",
+        "eng_name": "Metal",
+        "instructions": "Please flatten containers to reduce their volume if needed."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "plastic",
+        "eng_name": "Plastic",
+        "instructions": "Attention! Black plastic is not recyclable. If possible, please take it to the nearest recycling center."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "plastique",
+        "eng_name": "Plastic",
+        "instructions": "Attention! Black plastic is not recyclable. If possible, please take it to the nearest recycling center."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "kunststoff",
+        "eng_name": "Plastic",
+        "instructions": "Attention! Black plastic is not recyclable. If possible, please take it to the nearest recycling center."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "tetra",
+        "eng_name": "Tetra Pack",
+        "instructions": "Please empty and flatten it. There's no need to wash the packaging before placing it in the blue bag."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "Tetra Brik",
+        "eng_name": "Tetra Pack",
+        "instructions": "Please empty and flatten it. There's no need to wash the packaging before placing it in the blue bag."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "Tetra Pak",
+        "eng_name": "Tetra Pack",
+        "instructions": "Please empty and flatten it. There's no need to wash the packaging before placing it in the blue bag."
+    },
+    {
+        "container_name": "valorlux",
+        "name": "Brique Tetra",
+        "eng_name": "Tetra Pack",
+        "instructions": "Please empty and flatten it. There's no need to wash the packaging before placing it in the blue bag."
+    },
+    {
+        "container_name": "unknown",
+        "name": "unknown",
+        "eng_name": "unknown",
+        "instructions": ""
+    }
+]

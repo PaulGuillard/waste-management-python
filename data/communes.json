@@ -1,0 +1,1042 @@
+[
+    {
+        "CODE": 1,
+        "NOM": "Luxembourg",
+        "NOM_MAJ": "LUXEMBOURG",
+        "DATE": "27/01/2009",
+        "CANTON": 0,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 1,
+        "NOM": "Bascharage",
+        "NOM_MAJ": "BASCHARAGE",
+        "DATE": "27/01/2009",
+        "CANTON": 2,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 2,
+        "NOM": "Clemency",
+        "NOM_MAJ": "CLEMENCY",
+        "DATE": "27/01/2009",
+        "CANTON": 2,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Dippach",
+        "NOM_MAJ": "DIPPACH",
+        "DATE": "27/01/2009",
+        "CANTON": 2,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 4,
+        "NOM": "Garnich",
+        "NOM_MAJ": "GARNICH",
+        "DATE": "27/01/2009",
+        "CANTON": 2,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 5,
+        "NOM": "Hobscheid",
+        "NOM_MAJ": "HOBSCHEID",
+        "DATE": "27/01/2009",
+        "CANTON": 2,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 6,
+        "NOM": "Kehlen",
+        "NOM_MAJ": "KEHLEN",
+        "DATE": "27/01/2009",
+        "CANTON": 2,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 7,
+        "NOM": "Koerich",
+        "NOM_MAJ": "KOERICH",
+        "DATE": "27/01/2009",
+        "CANTON": 2,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 8,
+        "NOM": "Kopstal",
+        "NOM_MAJ": "KOPSTAL",
+        "DATE": "27/01/2009",
+        "CANTON": 2,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 9,
+        "NOM": "Mamer",
+        "NOM_MAJ": "MAMER",
+        "DATE": "27/01/2009",
+        "CANTON": 2,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 10,
+        "NOM": "Septfontaines",
+        "NOM_MAJ": "SEPTFONTAINES",
+        "DATE": "27/01/2009",
+        "CANTON": 2,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 11,
+        "NOM": "Steinfort",
+        "NOM_MAJ": "STEINFORT",
+        "DATE": "27/01/2009",
+        "CANTON": 2,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 12,
+        "NOM": "Käerjeng",
+        "NOM_MAJ": "KAERJENG",
+        "DATE": "01/01/2012",
+        "CANTON": 2,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 13,
+        "NOM": "Habscht",
+        "NOM_MAJ": "HABSCHT",
+        "DATE": "18/10/2017",
+        "CANTON": 2,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 1,
+        "NOM": "Bettembourg",
+        "NOM_MAJ": "BETTEMBOURG",
+        "DATE": "27/01/2009",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 2,
+        "NOM": "Differdange",
+        "NOM_MAJ": "DIFFERDANGE",
+        "DATE": "04/12/2015",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Dudelange",
+        "NOM_MAJ": "DUDELANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 4,
+        "NOM": "Esch-sur-Alzette",
+        "NOM_MAJ": "ESCH-SUR-ALZETTE",
+        "DATE": "27/01/2009",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 5,
+        "NOM": "Frisange",
+        "NOM_MAJ": "FRISANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 6,
+        "NOM": "Kayl",
+        "NOM_MAJ": "KAYL",
+        "DATE": "04/12/2015",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 7,
+        "NOM": "Leudelange",
+        "NOM_MAJ": "LEUDELANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 8,
+        "NOM": "Mondercange",
+        "NOM_MAJ": "MONDERCANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 9,
+        "NOM": "Pétange",
+        "NOM_MAJ": "PETANGE",
+        "DATE": "14/12/2011",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 10,
+        "NOM": "Reckange-sur-Mess",
+        "NOM_MAJ": "RECKANGE-SUR-MESS",
+        "DATE": "04/12/2015",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 11,
+        "NOM": "Roeser",
+        "NOM_MAJ": "ROESER",
+        "DATE": "27/01/2009",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 12,
+        "NOM": "Rumelange",
+        "NOM_MAJ": "RUMELANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 13,
+        "NOM": "Sanem",
+        "NOM_MAJ": "SANEM",
+        "DATE": "27/01/2009",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 14,
+        "NOM": "Schifflange",
+        "NOM_MAJ": "SCHIFFLANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 3,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 1,
+        "NOM": "Bertrange",
+        "NOM_MAJ": "BERTRANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 4,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 2,
+        "NOM": "Contern",
+        "NOM_MAJ": "CONTERN",
+        "DATE": "04/12/2015",
+        "CANTON": 4,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Hesperange",
+        "NOM_MAJ": "HESPERANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 4,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 4,
+        "NOM": "Niederanven",
+        "NOM_MAJ": "NIEDERANVEN",
+        "DATE": "27/01/2009",
+        "CANTON": 4,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 5,
+        "NOM": "Sandweiler",
+        "NOM_MAJ": "SANDWEILER",
+        "DATE": "27/01/2009",
+        "CANTON": 4,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 6,
+        "NOM": "Schuttrange",
+        "NOM_MAJ": "SCHUTTRANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 4,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 7,
+        "NOM": "Steinsel",
+        "NOM_MAJ": "STEINSEL",
+        "DATE": "27/01/2009",
+        "CANTON": 4,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 8,
+        "NOM": "Strassen",
+        "NOM_MAJ": "STRASSEN",
+        "DATE": "27/01/2009",
+        "CANTON": 4,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 9,
+        "NOM": "Walferdange",
+        "NOM_MAJ": "WALFERDANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 4,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 10,
+        "NOM": "Weiler-la-Tour",
+        "NOM_MAJ": "WEILER-LA-TOUR",
+        "DATE": "04/12/2015",
+        "CANTON": 4,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 1,
+        "NOM": "Colmar-Berg",
+        "NOM_MAJ": "COLMAR-BERG",
+        "DATE": "04/12/2015",
+        "CANTON": 5,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 2,
+        "NOM": "Bissen",
+        "NOM_MAJ": "BISSEN",
+        "DATE": "27/01/2009",
+        "CANTON": 5,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Boevange-sur-Attert",
+        "NOM_MAJ": "BOEVANGE-SUR-ATTERT",
+        "DATE": "04/12/2015",
+        "CANTON": 5,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 4,
+        "NOM": "Fischbach",
+        "NOM_MAJ": "FISCHBACH",
+        "DATE": "04/12/2015",
+        "CANTON": 5,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 5,
+        "NOM": "Heffingen",
+        "NOM_MAJ": "HEFFINGEN",
+        "DATE": "27/01/2009",
+        "CANTON": 5,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 6,
+        "NOM": "Larochette",
+        "NOM_MAJ": "LAROCHETTE",
+        "DATE": "04/12/2015",
+        "CANTON": 5,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 7,
+        "NOM": "Lintgen",
+        "NOM_MAJ": "LINTGEN",
+        "DATE": "27/01/2009",
+        "CANTON": 5,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 8,
+        "NOM": "Lorentzweiler",
+        "NOM_MAJ": "LORENTZWEILER",
+        "DATE": "27/01/2009",
+        "CANTON": 5,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 9,
+        "NOM": "Mersch",
+        "NOM_MAJ": "MERSCH",
+        "DATE": "27/01/2009",
+        "CANTON": 5,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 10,
+        "NOM": "Nommern",
+        "NOM_MAJ": "NOMMERN",
+        "DATE": "27/01/2009",
+        "CANTON": 5,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 11,
+        "NOM": "Tuntange",
+        "NOM_MAJ": "TUNTANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 5,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 12,
+        "NOM": "Helperknapp",
+        "NOM_MAJ": "HELPERKNAPP",
+        "DATE": "18/10/2017",
+        "CANTON": 5,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 1,
+        "NOM": "Wincrange",
+        "NOM_MAJ": "WINCRANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 6,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Clervaux",
+        "NOM_MAJ": "CLERVAUX",
+        "DATE": "27/01/2009",
+        "CANTON": 6,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 4,
+        "NOM": "Consthum",
+        "NOM_MAJ": "CONSTHUM",
+        "DATE": "27/01/2009",
+        "CANTON": 6,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 6,
+        "NOM": "Heinerscheid",
+        "NOM_MAJ": "HEINERSCHEID",
+        "DATE": "27/01/2009",
+        "CANTON": 6,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 7,
+        "NOM": "Hosingen",
+        "NOM_MAJ": "HOSINGEN",
+        "DATE": "27/01/2009",
+        "CANTON": 6,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 8,
+        "NOM": "Munshausen",
+        "NOM_MAJ": "MUNSHAUSEN",
+        "DATE": "27/01/2009",
+        "CANTON": 6,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 9,
+        "NOM": "Troisvierges",
+        "NOM_MAJ": "TROISVIERGES",
+        "DATE": "27/01/2009",
+        "CANTON": 6,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 10,
+        "NOM": "Weiswampach",
+        "NOM_MAJ": "WEISWAMPACH",
+        "DATE": "04/04/2016",
+        "CANTON": 6,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 11,
+        "NOM": "Clervaux",
+        "NOM_MAJ": "CLERVAUX",
+        "DATE": "04/12/2015",
+        "CANTON": 6,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 12,
+        "NOM": "Parc Hosingen",
+        "NOM_MAJ": "PARC HOSINGEN",
+        "DATE": "01/01/2012",
+        "CANTON": 6,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 1,
+        "NOM": "Bastendorf",
+        "NOM_MAJ": "BASTENDORF",
+        "DATE": "01/02/2000",
+        "CANTON": 7,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 2,
+        "NOM": "Bettendorf",
+        "NOM_MAJ": "BETTENDORF",
+        "DATE": "27/01/2009",
+        "CANTON": 7,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Bourscheid",
+        "NOM_MAJ": "BOURSCHEID",
+        "DATE": "04/12/2015",
+        "CANTON": 7,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 4,
+        "NOM": "Diekirch",
+        "NOM_MAJ": "DIEKIRCH",
+        "DATE": "04/12/2015",
+        "CANTON": 7,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 5,
+        "NOM": "Ermsdorf",
+        "NOM_MAJ": "ERMSDORF",
+        "DATE": "27/01/2009",
+        "CANTON": 7,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 6,
+        "NOM": "Erpeldange-sur-Sûre",
+        "NOM_MAJ": "ERPELDANGE-SUR-SURE",
+        "DATE": "04/12/2015",
+        "CANTON": 7,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 7,
+        "NOM": "Ettelbruck",
+        "NOM_MAJ": "ETTELBRUCK",
+        "DATE": "27/01/2009",
+        "CANTON": 7,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 8,
+        "NOM": "Feulen",
+        "NOM_MAJ": "FEULEN",
+        "DATE": "27/01/2009",
+        "CANTON": 7,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 9,
+        "NOM": "Hoscheid",
+        "NOM_MAJ": "HOSCHEID",
+        "DATE": "27/01/2009",
+        "CANTON": 7,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 10,
+        "NOM": "Medernach",
+        "NOM_MAJ": "MEDERNACH",
+        "DATE": "27/01/2009",
+        "CANTON": 7,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 11,
+        "NOM": "Mertzig",
+        "NOM_MAJ": "MERTZIG",
+        "DATE": "27/01/2009",
+        "CANTON": 7,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 12,
+        "NOM": "Reisdorf",
+        "NOM_MAJ": "REISDORF",
+        "DATE": "27/01/2009",
+        "CANTON": 7,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 13,
+        "NOM": "Schieren",
+        "NOM_MAJ": "SCHIEREN",
+        "DATE": "27/01/2009",
+        "CANTON": 7,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 14,
+        "NOM": "Vallée de l'Ernz",
+        "NOM_MAJ": "VALLEE DE L'ERNZ",
+        "DATE": "04/12/2015",
+        "CANTON": 7,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 2,
+        "NOM": "Beckerich",
+        "NOM_MAJ": "BECKERICH",
+        "DATE": "27/01/2009",
+        "CANTON": 8,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Préizerdaul",
+        "NOM_MAJ": "PREIZERDAUL",
+        "DATE": "27/01/2009",
+        "CANTON": 8,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 5,
+        "NOM": "Ell",
+        "NOM_MAJ": "ELL",
+        "DATE": "27/01/2009",
+        "CANTON": 8,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 6,
+        "NOM": "Rambrouch",
+        "NOM_MAJ": "RAMBROUCH",
+        "DATE": "04/12/2015",
+        "CANTON": 8,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 7,
+        "NOM": "Grosbous",
+        "NOM_MAJ": "GROSBOUS",
+        "DATE": "27/01/2009",
+        "CANTON": 8,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 9,
+        "NOM": "Redange/Attert",
+        "NOM_MAJ": "REDANGE/ATTERT",
+        "DATE": "04/12/2015",
+        "CANTON": 8,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 10,
+        "NOM": "Saeul",
+        "NOM_MAJ": "SAEUL",
+        "DATE": "27/01/2009",
+        "CANTON": 8,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 11,
+        "NOM": "Useldange",
+        "NOM_MAJ": "USELDANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 8,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 12,
+        "NOM": "Vichten",
+        "NOM_MAJ": "VICHTEN",
+        "DATE": "27/01/2009",
+        "CANTON": 8,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 13,
+        "NOM": "Wahl",
+        "NOM_MAJ": "WAHL",
+        "DATE": "04/12/2015",
+        "CANTON": 8,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 1,
+        "NOM": "Boulaide",
+        "NOM_MAJ": "BOULAIDE",
+        "DATE": "27/01/2009",
+        "CANTON": 9,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 2,
+        "NOM": "Esch-sur-Sûre",
+        "NOM_MAJ": "ESCH-SUR-SURE",
+        "DATE": "27/01/2009",
+        "CANTON": 9,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Eschweiler",
+        "NOM_MAJ": "ESCHWEILER",
+        "DATE": "27/01/2009",
+        "CANTON": 9,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 4,
+        "NOM": "Goesdorf",
+        "NOM_MAJ": "GOESDORF",
+        "DATE": "27/01/2009",
+        "CANTON": 9,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 5,
+        "NOM": "Lac de la Haute-Sûre",
+        "NOM_MAJ": "LAC DE LA HAUTE-SURE",
+        "DATE": "27/01/2009",
+        "CANTON": 9,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 6,
+        "NOM": "Heiderscheid",
+        "NOM_MAJ": "HEIDERSCHEID",
+        "DATE": "27/01/2009",
+        "CANTON": 9,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 7,
+        "NOM": "Kautenbach",
+        "NOM_MAJ": "KAUTENBACH",
+        "DATE": "01/02/2000",
+        "CANTON": 9,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 9,
+        "NOM": "Neunhausen",
+        "NOM_MAJ": "NEUNHAUSEN",
+        "DATE": "27/01/2009",
+        "CANTON": 9,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 11,
+        "NOM": "Wiltz",
+        "NOM_MAJ": "WILTZ",
+        "DATE": "27/01/2009",
+        "CANTON": 9,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 12,
+        "NOM": "Wilwerwiltz",
+        "NOM_MAJ": "WILWERWILTZ",
+        "DATE": "01/02/2000",
+        "CANTON": 9,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 13,
+        "NOM": "Winseler",
+        "NOM_MAJ": "WINSELER",
+        "DATE": "27/01/2009",
+        "CANTON": 9,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 14,
+        "NOM": "Kiischpelt",
+        "NOM_MAJ": "KIISCHPELT",
+        "DATE": "27/01/2009",
+        "CANTON": 9,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 15,
+        "NOM": "Esch-sur-Sûre",
+        "NOM_MAJ": "ESCH-SUR-SURE",
+        "DATE": "07/12/2011",
+        "CANTON": 9,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 16,
+        "NOM": "Wiltz",
+        "NOM_MAJ": "WILTZ",
+        "DATE": "04/12/2015",
+        "CANTON": 9,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 1,
+        "NOM": "Fouhren",
+        "NOM_MAJ": "FOUHREN",
+        "DATE": "01/02/2000",
+        "CANTON": 10,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 2,
+        "NOM": "Putscheid",
+        "NOM_MAJ": "PUTSCHEID",
+        "DATE": "04/12/2015",
+        "CANTON": 10,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Vianden",
+        "NOM_MAJ": "VIANDEN",
+        "DATE": "04/12/2015",
+        "CANTON": 10,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 4,
+        "NOM": "Tandel",
+        "NOM_MAJ": "TANDEL",
+        "DATE": "27/01/2009",
+        "CANTON": 10,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 1,
+        "NOM": "Beaufort",
+        "NOM_MAJ": "BEAUFORT",
+        "DATE": "27/01/2009",
+        "CANTON": 11,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 2,
+        "NOM": "Bech",
+        "NOM_MAJ": "BECH",
+        "DATE": "27/01/2009",
+        "CANTON": 11,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Berdorf",
+        "NOM_MAJ": "BERDORF",
+        "DATE": "04/12/2015",
+        "CANTON": 11,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 4,
+        "NOM": "Consdorf",
+        "NOM_MAJ": "CONSDORF",
+        "DATE": "27/01/2009",
+        "CANTON": 11,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 5,
+        "NOM": "Echternach",
+        "NOM_MAJ": "ECHTERNACH",
+        "DATE": "27/01/2009",
+        "CANTON": 11,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 6,
+        "NOM": "Mompach",
+        "NOM_MAJ": "MOMPACH",
+        "DATE": "27/01/2009",
+        "CANTON": 11,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 7,
+        "NOM": "Rosport",
+        "NOM_MAJ": "ROSPORT",
+        "DATE": "04/12/2015",
+        "CANTON": 11,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 8,
+        "NOM": "Waldbillig",
+        "NOM_MAJ": "WALDBILLIG",
+        "DATE": "27/01/2009",
+        "CANTON": 11,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 9,
+        "NOM": "Rosport-Mompach",
+        "NOM_MAJ": "ROSPORT-MOMPACH",
+        "DATE": "18/10/2017",
+        "CANTON": 11,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 1,
+        "NOM": "Betzdorf",
+        "NOM_MAJ": "BETZDORF",
+        "DATE": "27/01/2009",
+        "CANTON": 12,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 2,
+        "NOM": "Biwer",
+        "NOM_MAJ": "BIWER",
+        "DATE": "27/01/2009",
+        "CANTON": 12,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Flaxweiler",
+        "NOM_MAJ": "FLAXWEILER",
+        "DATE": "04/12/2015",
+        "CANTON": 12,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 4,
+        "NOM": "Grevenmacher",
+        "NOM_MAJ": "GREVENMACHER",
+        "DATE": "04/12/2015",
+        "CANTON": 12,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 5,
+        "NOM": "Junglinster",
+        "NOM_MAJ": "JUNGLINSTER",
+        "DATE": "27/01/2009",
+        "CANTON": 12,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 6,
+        "NOM": "Manternach",
+        "NOM_MAJ": "MANTERNACH",
+        "DATE": "27/01/2009",
+        "CANTON": 12,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 7,
+        "NOM": "Mertert",
+        "NOM_MAJ": "MERTERT",
+        "DATE": "27/01/2009",
+        "CANTON": 12,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 9,
+        "NOM": "Wormeldange",
+        "NOM_MAJ": "WORMELDANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 12,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 0,
+        "NOM": "Bous",
+        "NOM_MAJ": "BOUS",
+        "DATE": "01/02/2000",
+        "CANTON": 13,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 1,
+        "NOM": "Burmerange",
+        "NOM_MAJ": "BURMERANGE",
+        "DATE": "27/01/2009",
+        "CANTON": 13,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 2,
+        "NOM": "Dalheim",
+        "NOM_MAJ": "DALHEIM",
+        "DATE": "27/01/2009",
+        "CANTON": 13,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 3,
+        "NOM": "Lenningen",
+        "NOM_MAJ": "LENNINGEN",
+        "DATE": "27/01/2009",
+        "CANTON": 13,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 4,
+        "NOM": "Mondorf-les-Bains",
+        "NOM_MAJ": "MONDORF-LES-BAINS",
+        "DATE": "04/12/2015",
+        "CANTON": 13,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 5,
+        "NOM": "Schengen",
+        "NOM_MAJ": "SCHENGEN",
+        "DATE": "27/01/2009",
+        "CANTON": 13,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 6,
+        "NOM": "Remich",
+        "NOM_MAJ": "REMICH",
+        "DATE": "27/01/2009",
+        "CANTON": 13,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 7,
+        "NOM": "Stadtbredimus",
+        "NOM_MAJ": "STADTBREDIMUS",
+        "DATE": "27/01/2009",
+        "CANTON": 13,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 8,
+        "NOM": "Waldbredimus",
+        "NOM_MAJ": "WALDBREDIMUS",
+        "DATE": "27/01/2009",
+        "CANTON": 13,
+        "ACTUEL": "O"
+    },
+    {
+        "CODE": 9,
+        "NOM": "Wellenstein",
+        "NOM_MAJ": "WELLENSTEIN",
+        "DATE": "27/01/2009",
+        "CANTON": 13,
+        "ACTUEL": "N"
+    },
+    {
+        "CODE": 10,
+        "NOM": "Schengen",
+        "NOM_MAJ": "SCHENGEN",
+        "DATE": "07/12/2011",
+        "CANTON": 13,
+        "ACTUEL": "O"
+    }
+]
